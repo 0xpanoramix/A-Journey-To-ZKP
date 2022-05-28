@@ -9,3 +9,4 @@
 5. [Homomorphic Hidings](https://electriccoin.co/blog/snark-explain/)
 6. [Knowledge of Coefficient Assumption](https://electriccoin.co/blog/snark-explain3/)
 7. [Proving Knowledge of a Polynomial](https://medium.com/@imolfar/why-and-how-zk-snark-works-2-proving-knowledge-of-a-polynomial-f817760e2805)
+8. Incoming..
