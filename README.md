@@ -45,7 +45,7 @@ Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approa
 
 ## Vitalik Buterin
 
-The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the math involed.
+The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the math behind.
 
 1. [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 2. [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
