@@ -15,7 +15,7 @@
 
 ## Learn the Maths by Khan Academy
 
-Khan Academy provides two great courses dedicated to learning polynomials and modular arithmetic.
+Khan Academy has made 2 courses dedicated to learning polynomials and modular arithmetic.
 
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
@@ -33,7 +33,7 @@ Dystopia Labs made 3 videos with the purpose to demystify ZKP concepts, imo it's
 ### Why and How zk-SNARK Works by Maksym Petkus
 
 [Maksym Petkus](https://twitter.com/maksympetkus) has written 8 excellents posts explaining zk-SNARKs in detail.
-Every piece of maths involved is described in detailed, computing the formulas yourselves is a must to properly understand the posts imo.
+Every piece of maths involved is well described, computing the formulas yourselves is a must to properly understand the posts imo.
 
 Based on [his paper](https://arxiv.org/abs/1906.07221).
 
@@ -60,7 +60,7 @@ Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approa
 
 ### Vitalik Buterin on zk-SNARKs
 
-The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the math behind.
+The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the some of the math behind the protocol.
 
 1. [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 2. [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
@@ -86,7 +86,7 @@ David Wong, the author of the Real-World Cryptography book and host of [cryptolo
 
 ### A journey to zk-STARKs by StarkWare
 
-StarkWare members, the founders of the zk-STARKs protocol, have written a serie of posts explaining the STARK protocol.
+StarkWare members, the founders of the zk-STARKs protocol, have written a serie of posts explaining what STARK really are.
 
 1. [The journey begins](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
 2. [Arithmetization I](https://medium.com/starkware/arithmetization-i-15c046390862)
