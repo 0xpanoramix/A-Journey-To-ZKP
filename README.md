@@ -22,7 +22,7 @@ Khan Academy provides two great courses dedicated to learning polynomials and mo
 
 ## Demystifying Zero Knowledge Proofs by Dystopia Labs
 
-Dystopia Labs made 3 videos with the purpose to demystify ZKP concepts, imo it's a great intro to concepts.
+Dystopia Labs made 3 videos with the purpose to demystify ZKP concepts, imo it's a great intro to the concepts.
 
 1. [Demystifying Zero Knowledge Proofs 1/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=_6TqUNVLChc)
 2. [Demystifying Zero Knowledge Proofs 2/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=qwtOJvFo6vs)
