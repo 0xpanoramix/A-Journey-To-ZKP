@@ -2,13 +2,13 @@
 
 ## Plan
 
-- Learn the maths
+- Learn the Maths by Khan Academy
 - zk-SNARKs
-  - Maksym Petkus's posts
-  - Ariel Gabizon's posts
-  - Vitalik Buterin's posts
+  - Why and How zk-SNARK Works by Maksym Petkus
+  - Explaining SNARKs by Ariel Gabizon
+  - Vitalik Buterin
 
-## Learn the Maths : Khan Academy
+## Learn the Maths by Khan Academy
 
 Khan Academy provides two great courses dedicated to learning polynomials and modular arithmetic.
 
