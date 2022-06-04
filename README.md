@@ -12,14 +12,15 @@
   - [A journey to zk-STARKs by StarkWare](#a-journey-to-zk-starks-by-starkware)
   - [STARKs explained by Vitalik Buterin](#starks-explained-by-vitalik-buterin)
 
-## zk-SNARKs
-
-### Learn the Maths by Khan Academy
+## Learn the Maths by Khan Academy
 
 Khan Academy provides two great courses dedicated to learning polynomials and modular arithmetic.
 
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
+
+
+## zk-SNARKs
 
 ### Why and How zk-SNARK Works by Maksym Petkus
 
