@@ -3,6 +3,7 @@
 ## Plan
 
 - [Learn the Maths by Khan Academy](#learn-the-maths-by-khan-academy)
+- [Demystifying Zero Knowledge Proofs by Dystopia Labs](#demystifying-zero-knowledge-proofs-by-dystopia-labs)
 - [zk-SNARKs](#zk-snarks)
   - [Why and How zk-SNARK Works by Maksym Petkus](#why-and-how-zk-snark-works-by-maksym-petkus)
   - [Explaining SNARKs by Ariel Gabizon](#explaining-snarks-by-ariel-gabizon)
@@ -19,6 +20,13 @@ Khan Academy provides two great courses dedicated to learning polynomials and mo
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
 
+## Demystifying Zero Knowledge Proofs by Dystopia Labs
+
+Dystopia Labs made 3 videos with the purpose to demystify ZKP concepts, imo it's a great intro to concepts.
+
+1. [Demystifying Zero Knowledge Proofs 1/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=_6TqUNVLChc)
+2. [Demystifying Zero Knowledge Proofs 2/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=qwtOJvFo6vs)
+3. [Demystifying Zero Knowledge Proofs 3/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=YymE69JcKEk)
 
 ## zk-SNARKs
 
@@ -73,7 +81,6 @@ David Wong, the author of the Real-World Cryptography book and host of [cryptolo
 9. [How does PLONK work? Part 9: What's a polynomial commitment scheme (PCS) ?](https://www.youtube.com/watch?v=P1JeN30RdwQ&list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC&index=9)
 10. [How does PLONK work? Part 10: The Kate polynomial commitment scheme](https://www.youtube.com/watch?v=P1JeN30RdwQ&list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC&index=10)
 11. [How does PLONK work? Part 11: Our final protocol! (Without the copy constraints)](https://www.youtube.com/watch?v=P1JeN30RdwQ&list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC&index=11)
-
 
 ## zk-STARKs
 
