@@ -15,14 +15,14 @@
 
 ## Learn the Maths by Khan Academy
 
-Khan Academy has made 2 courses dedicated to learning polynomials and modular arithmetic.
+[Khan Academy](https://www.khanacademy.org/) has made 2 courses dedicated to learning polynomials and modular arithmetic.
 
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
 
 ## Demystifying Zero Knowledge Proofs by Dystopia Labs
 
-Dystopia Labs made 3 videos with the purpose to demystify ZKP concepts, imo it's a great intro to the concepts.
+[Dystopia Labs](https://dystopialabs.com/) made 3 videos with the purpose to demystify ZKP concepts, imo it's a great intro to the concepts.
 
 1. [Demystifying Zero Knowledge Proofs 1/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=_6TqUNVLChc)
 2. [Demystifying Zero Knowledge Proofs 2/3 : How To Build DApps With zk-SNARKs](https://www.youtube.com/watch?v=qwtOJvFo6vs)
@@ -60,7 +60,7 @@ Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approa
 
 ### Vitalik Buterin on zk-SNARKs
 
-The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the some of the math behind the protocol.
+[Vitalik Buterin](https://twitter.com/VitalikButerin?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), the unknown founder of Ethereum has written a few posts related to zk-SNARKs and the some of the math behind the protocol.
 
 1. [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
 2. [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
@@ -68,7 +68,7 @@ The unknown founder of Ethereum has written a few posts related to zk-SNARKs and
 
 ### How does PLONK work by David Wong
 
-David Wong, the author of the Real-World Cryptography book and host of [cryptologie.net](https://www.cryptologie.net/) has made a serie of 11 videos explaining both the concept and math behind the PLONK protocol.
+[David Wong](https://www.davidwong.fr/), the author of the Real-World Cryptography book and host of [cryptologie.net](https://www.cryptologie.net/) has made a serie of 11 videos explaining both the concept and math behind the PLONK protocol.
 
 1. [How does PLONK work? Part 1: What's PLONK ?](https://www.youtube.com/watch?v=RUZcam_jrz0&list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC&index=1)
 2. [How does PLONK work? Part 2: An overview](https://www.youtube.com/watch?v=P1JeN30RdwQ&list=PLBJMt6zV1c7Gh9Utg-Vng2V6EYVidTFCC&index=2)
@@ -86,7 +86,7 @@ David Wong, the author of the Real-World Cryptography book and host of [cryptolo
 
 ### A journey to zk-STARKs by StarkWare
 
-StarkWare members, the founders of the zk-STARKs protocol, have written a serie of posts explaining what STARK really are.
+[StarkWare](https://starkware.co/) members, the founders of the zk-STARKs protocol, have written a serie of posts explaining what STARK really are.
 
 1. [The journey begins](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
 2. [Arithmetization I](https://medium.com/starkware/arithmetization-i-15c046390862)
