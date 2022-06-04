@@ -10,6 +10,7 @@
   - [How does PLONK work by David Wong](#how-does-plonk-work-by-david-wong)
 - [zk-STARKs](#zk-starks)
   - [A journey to zk-STARKs by StarkWare](#a-journey-to-zk-starks-by-starkware)
+  - [STARKs explained by Vitalik Buterin](#starks-explained-by-vitalik-buterin)
 
 ## zk-SNARKs
 
@@ -84,3 +85,11 @@ StarkWare members, the founders of the zk-STARKs protocol, have written a serie 
 3. [Arithmetization II](https://medium.com/starkware/arithmetization-ii-403c3b3f4355)
 4. [Low Degree Testing](https://medium.com/starkware/low-degree-testing-f7614f5172db)
 5. [A Framework for Efficient STARKs](https://medium.com/starkware/a-framework-for-efficient-starks-19608ba06fbe)
+
+### STARKs explained by Vitalik Buterin
+
+Back for math. This time explaining STARKs.
+
+1. [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
+2. [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
+3. [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
