@@ -7,6 +7,7 @@
   - [Why and How zk-SNARK Works by Maksym Petkus](#why-and-how-zk-snark-works-by-maksym-petkus)
   - [Explaining SNARKs by Ariel Gabizon](#explaining-snarks-by-ariel-gabizon)
   - [Vitalik Buterin](#vitalik-buterin-on-zk-snarks)
+  - [How does PLONK work by David Wong](#how-does-plonk-work-by-david-wong)
 
 ## zk-SNARKs
 
