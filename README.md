@@ -1,16 +1,24 @@
 # A journey to ZKP
 
-## Learn Maths : Khan Academy
+## Plan
+
+- Learn the maths
+- zk-SNARKs
+  - Maksym Petkus's posts
+  - Ariel Gabizon's posts
+  - Vitalik Buterin's posts
+
+## Learn the Maths : Khan Academy
 
 Khan Academy provides two great courses dedicated to learning polynomials and modular arithmetic.
 
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
 
-
 ## Maksym Petkus
 
 [Maksym Petkus](https://twitter.com/maksympetkus) has written 8 excellents posts explaining zk-SNARKs in detail.
+Every piece of maths involved is described in detailed, computing the formulas yourselves is a must to properly understand the posts imo.
 
 Based on [his paper](https://arxiv.org/abs/1906.07221).
 
@@ -34,3 +42,11 @@ Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approa
 5. [Explaining SNARKs Part V: From Computations to Polynomials](https://electriccoin.co/blog/snark-explain5/)
 6. [Explaining SNARKs Part VI: The Pinocchio Protocol](https://electriccoin.co/blog/snark-explain6/)
 7. [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
+
+## Vitalik Buterin
+
+The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the math involed.
+
+1. [Quadratic Arithmetic Programs: from Zero to Hero](https://medium.com/@VitalikButerin/quadratic-arithmetic-programs-from-zero-to-hero-f6d558cea649)
+2. [Exploring Elliptic Curve Pairings](https://medium.com/@VitalikButerin/exploring-elliptic-curve-pairings-c73c1864e627)
+3. [Zk-SNARKs: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6)
