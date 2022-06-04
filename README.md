@@ -15,7 +15,7 @@ Khan Academy provides two great courses dedicated to learning polynomials and mo
 1. [Polynomials](https://www.khanacademy.org/math/algebra-home/alg-polynomials)
 2. [Modular Arithmetic](https://www.khanacademy.org/computing/computer-science/cryptography#modarithmetic)
 
-## Maksym Petkus
+## Why and How zk-SNARK Works by Maksym Petkus
 
 [Maksym Petkus](https://twitter.com/maksympetkus) has written 8 excellents posts explaining zk-SNARKs in detail.
 Every piece of maths involved is described in detailed, computing the formulas yourselves is a must to properly understand the posts imo.
@@ -31,7 +31,7 @@ Based on [his paper](https://arxiv.org/abs/1906.07221).
 7. [Why and How zk-SNARK Works 7: Constraints and Public Inputs](https://medium.com/@imolfar/why-and-how-zk-snark-works-7-constraints-and-public-inputs-e95f6596dd1c)
 8. [Why and How zk-SNARK Works 8: Zero-Knowledge Computation](https://medium.com/@imolfar/why-and-how-zk-snark-works-8-zero-knowledge-computation-f120339c2c55)
 
-## Ariel Gabizon
+## Explaining SNARKs by Ariel Gabizon
 
 Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approach compared to Maksym's posts and definitely useful !
 
