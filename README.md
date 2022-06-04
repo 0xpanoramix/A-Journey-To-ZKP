@@ -2,11 +2,11 @@
 
 ## Plan
 
-- Learn the Maths by Khan Academy
+- [Learn the Maths by Khan Academy](#learn-the-maths-by-khan-academy)
 - zk-SNARKs
-  - Why and How zk-SNARK Works by Maksym Petkus
-  - Explaining SNARKs by Ariel Gabizon
-  - Vitalik Buterin
+  - [Why and How zk-SNARK Works by Maksym Petkus](#why-and-how-zk-snark-works-by-maksym-petkus)
+  - [Explaining SNARKs by Ariel Gabizon](#explaining-snarks-by-ariel-gabizon)
+  - [Vitalik Buterin](#vitalik-buterin-on-zk-snarks)
 
 ## Learn the Maths by Khan Academy
 
@@ -43,7 +43,7 @@ Ariel Gabizon has written 7 posts explaining zk-SNARKs. Takes a different approa
 6. [Explaining SNARKs Part VI: The Pinocchio Protocol](https://electriccoin.co/blog/snark-explain6/)
 7. [Explaining SNARKs Part VII: Pairings of Elliptic Curves](https://electriccoin.co/blog/snark-explain7/)
 
-## Vitalik Buterin
+## Vitalik Buterin on zk-SNARKs
 
 The unknown founder of Ethereum has written a few posts related to zk-SNARKs and the math behind.
 
