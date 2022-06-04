@@ -100,4 +100,4 @@ Back for math. This time explaining STARKs.
 
 1. [STARKs, Part I: Proofs with Polynomials](https://vitalik.ca/general/2017/11/09/starks_part_1.html)
 2. [STARKs, Part II: Thank Goodness It's FRI-day](https://vitalik.ca/general/2017/11/22/starks_part_2.html)
-3. [STARKs, Part 3: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
+3. [STARKs, Part III: Into the Weeds](https://vitalik.ca/general/2018/07/21/starks_part_3.html)
