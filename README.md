@@ -8,6 +8,7 @@
   - [Explaining SNARKs by Ariel Gabizon](#explaining-snarks-by-ariel-gabizon)
   - [Vitalik Buterin](#vitalik-buterin-on-zk-snarks)
   - [How does PLONK work by David Wong](#how-does-plonk-work-by-david-wong)
+- [zk-STARKs](zk-starks)
 
 ## zk-SNARKs
 
