@@ -9,6 +9,7 @@
   - [Vitalik Buterin](#vitalik-buterin-on-zk-snarks)
   - [How does PLONK work by David Wong](#how-does-plonk-work-by-david-wong)
 - [zk-STARKs](#zk-starks)
+  - [A journey to zk-STARKs by StarkWare](#a-journey-to-zk-starks-by-starkware)
 
 ## zk-SNARKs
 
@@ -74,3 +75,12 @@ David Wong, the author of the Real-World Cryptography book and host of [cryptolo
 
 ## zk-STARKs
 
+### A journey to zk-STARKs by StarkWare
+
+StarkWare members, the founders of the zk-STARKs protocol, have written a serie of posts explaining the STARK protocol.
+
+1. [The journey begins](https://medium.com/starkware/stark-math-the-journey-begins-51bd2b063c71)
+2. [Arithmetization I](https://medium.com/starkware/arithmetization-i-15c046390862)
+3. [Arithmetization II](https://medium.com/starkware/arithmetization-ii-403c3b3f4355)
+4. [Low Degree Testing](https://medium.com/starkware/low-degree-testing-f7614f5172db)
+5. [A Framework for Efficient STARKs](https://medium.com/starkware/a-framework-for-efficient-starks-19608ba06fbe)
